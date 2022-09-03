@@ -1,0 +1,36 @@
+#title{
+font-style:italic;
+color:black;
+font-weight:bold;
+}
+.heading{
+    font-style:italic;
+    color:red;
+    font-weight:bold;   
+    
+}
+
+.image{
+height:200px;
+width:100px;
+border-style:double;
+}
+.images{
+    height:400px;
+    width:200px;
+    border:5px,black,dashed;
+}
+body{
+   background-color:grey;
+}
+#title{
+    color:red;
+}
+img{
+    height:350px;
+    width:350px;
+}
+
+.test_image_and_result{
+    background-color:white;
+}
